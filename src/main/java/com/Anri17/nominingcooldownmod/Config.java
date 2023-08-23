@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.Anri17.nominingcooldownmod;
 
 import java.io.File;
 

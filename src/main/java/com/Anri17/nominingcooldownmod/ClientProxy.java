@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.Anri17.nominingcooldownmod;
 
 public class ClientProxy extends CommonProxy {
 
